@@ -1,0 +1,4 @@
+Parte A - Braitenberg
+- 222 iteraciones: el robot llega cerca del objetivo (51, 86) sin alcanzarlo.
+- 600 iteraciones: el robot cruza el objetivo (60, 90) y se aleja hasta (178, 173).
+- Conclusión: no hay criterio de parada; el controlador sobrepasa el objetivo.

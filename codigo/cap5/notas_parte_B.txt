@@ -1,0 +1,4 @@
+Parte B - Bug2 simplificado
+- Escenario 1 (obstaculo y=8-11, meta (18,18)): 32 pasos, sin tocar el obstaculo.
+- Escenario 2 (obstaculo y=1-3, meta (18,2)): 20 pasos, rodea por arriba. Es el minimo para esa malla.
+- Limitacion: no hay m-line real; el regreso a la linea depende del desempate de direcciones.

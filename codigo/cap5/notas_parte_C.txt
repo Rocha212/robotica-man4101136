@@ -1,0 +1,4 @@
+Parte C - A*
+- Longitud del camino: 32 pasos (minimo, igual que Bug2 escenario 1).
+- Nodos expandidos: A* 305, UCS 356 (conteo incluye entradas duplicadas).
+- La ruta rodea el obstaculo por arriba; Bug2 la rodea por abajo. Ambas son monotonas, por eso tienen la misma longitud.

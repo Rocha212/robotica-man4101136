@@ -9,7 +9,7 @@ Informes y código de las prácticas del curso.
 | Cap 2 – Posición y orientación | Pendiente | |
 | Cap 3 – Tiempo y movimiento | Pendiente | |
 | Cap 4 – Cinemática | Pendiente | |
-| Cap 5 – Navegación | Listo | Lina Jamioy, Tomás Rocha |
+- Cap 5 (Navegación): Listo. Informe en informes/cap5-navegacion/, código en codigo/cap5/.
 | Cap 6 – SLAM | Listo | Lina Jamioy, Tomás Rocha |
 
 ## Cómo está organizado

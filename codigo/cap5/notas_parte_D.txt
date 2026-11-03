@@ -1,0 +1,6 @@
+Parte D - Distance Transform
+- Objetivo (2,2), inicio (18,18), obstaculo filas y=8-11, columnas x=5-14.
+- Longitud del camino: 32 pasos; distancia en el mapa en el inicio: 32.0.
+- El camino no toca el obstaculo. El desempate por orden de vecinos (izquierda primero) explica el trazo horizontal-vertical.
+- Costo: O(100*N) con 100 pasadas fijas; BFS desde la meta seria O(N).
+- Requiere mapa completo; a cambio da optimalidad y sirve para todos los inicios.
