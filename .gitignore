@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# ROS 2 (archivos generados por colcon)
+build/
+install/
+log/
+
+# LaTeX (archivos temporales)
+*.aux
+*.log
+*.out
+*.toc
+*.lof
+*.lot
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+
+# Videos pesados (subir a YouTube y poner el enlace en el informe)
+*.webm
+*.mp4
