@@ -23,3 +23,8 @@ log/
 # Videos pesados (subir a YouTube y poner el enlace en el informe)
 *.webm
 *.mp4
+
+# Proyecto final: entornos y caché de Python
+venv/
+__pycache__/
+*.pyc
