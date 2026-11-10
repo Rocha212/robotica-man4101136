@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package format="3">
+  <name>cap3_imu</name>
+  <version>0.0.1</version>
+  <description>Simulador e integrador de IMU para el laboratorio del capítulo 3.</description>
+  <maintainer email="">Tomas Rocha</maintainer>
+  <license>MIT</license>
+  <buildtool_depend>ament_python</buildtool_depend>
+  <depend>rclpy</depend>
+  <depend>sensor_msgs</depend>
+  <depend>geometry_msgs</depend>
+  <depend>tf2_ros</depend>
+  <exec_depend>python3-numpy</exec_depend>
+  <exec_depend>python3-scipy</exec_depend>
+  <export><build_type>ament_python</build_type></export>
+</package>
