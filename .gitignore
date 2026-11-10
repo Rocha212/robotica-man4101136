@@ -28,3 +28,8 @@ log/
 venv/
 __pycache__/
 *.pyc
+
+# Workspace ROS 2 del proyecto final
+proyecto_final/codigo/ros2/ros2_ws/build/
+proyecto_final/codigo/ros2/ros2_ws/install/
+proyecto_final/codigo/ros2/ros2_ws/log/
