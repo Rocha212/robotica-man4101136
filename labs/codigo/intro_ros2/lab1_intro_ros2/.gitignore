@@ -1,0 +1,7 @@
+# Archivos generados por colcon
+build/
+install/
+log/
+__pycache__/
+*.py[cod]
+.pytest_cache/
